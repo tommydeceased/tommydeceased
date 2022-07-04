@@ -1,0 +1,6 @@
+- Hi, I’m tommy/tom
+- 
+- Current Projects:
+-   Kitty code editor: wip
+- How to reach me:
+-   Discord: tommyBoy#7915
